@@ -1,4 +1,4 @@
-**Hi, I’m dezakil!**
+👋 **Hi, I’m dezakil!**
 
 I'm a developer working on some projects using Unreal Engine.
 
